@@ -26,4 +26,5 @@ s: the start vertex of this tunnel
 d: the end vertex of this tunnel
 c: the capacity of the tunnel
 
-#Output: The Maximum flow of things that can be transmitted from S to D 
+#Output
+The Maximum flow of things that can be transmitted from S to D 

@@ -2,16 +2,16 @@
 NOIP algorithm code submitted to provide easy access
 This respository is continually updating
 
-#KMP
+# KMP
 The Knuth-Morris-Pratt algorithm to find the first occurence of one string in another.
 
-##Input
+## Input
 Two strings, the partial string and the whole string
 
-##Output
+## Output
 The index of first occurence of partial string in the whole string (starting from 0)
 
-#MaxFlow
+# MaxFlow
 The Edmond-Karp algorithm dealing with the Network Flow problem
 
 ## Input
@@ -34,5 +34,5 @@ d: the end vertex of this tunnel
 
 c: the capacity of the tunnel
 
-##Output
+## Output
 The Maximum flow of things that can be transmitted from S to D 
